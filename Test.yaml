@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Swagger UI
-  description: <iframe src="javascript:alert(1)">
+  description: <h1>Test</h1><style>@import 'javascript:alert(1)'</style>
 paths:
   /Login_Page_RelicHunt3r:
     post:

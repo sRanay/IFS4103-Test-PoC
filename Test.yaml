@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Swagger UI
-  description: <math><mtext></p><img src=x onerror=alert(1)></mtext></math>
+  description: <iframe src="javascript:alert(1)">
 paths:
   /Login_Page_RelicHunt3r:
     post:
